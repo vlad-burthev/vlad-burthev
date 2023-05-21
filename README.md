@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 🔭 I’m ready for work</h2>
 
 
 <h1>My tech stack</h1>
@@ -13,6 +13,20 @@
 <img src="https://img.shields.io/badge/photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=#31A8FF" />
 <img src="https://img.shields.io/badge/vs code-333?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
 <img src="https://img.shields.io/badge/csharp-333?style=for-the-badge&logo=csharp&logoColor=green" />
+<img src="https://img.shields.io/badge/npm-333?style=for-the-badge&logo=npm&logoColor=#CB3837" />
+<img src="https://img.shields.io/badge/webpack-333?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" />
+<img src="https://img.shields.io/badge/vite-333?style=for-the-badge&logo=vite&logoColor=#646CFF" />
+<img src="https://img.shields.io/badge/yarn-333?style=for-the-badge&logo=yarn&logoColor=#2C8EBB" />
+
+<h1>My GitHub Profile Trophy</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vlad-burthev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h1>My GitHub Readme Stats</h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad-burthev&show_icons=true&theme=tokyonight)
+
+
 <!--
 **vlad-burthev/vlad-burthev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
