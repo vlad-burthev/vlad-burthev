@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/HTML-5-orange
+![image](https://github.com/vlad-burthev/vlad-burthev/assets/78907710/185482f1-b979-42e0-b373-f86c2e4e4d7c)
 <!--
 **vlad-burthev/vlad-burthev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
