@@ -21,8 +21,38 @@
 
 <h1>The projects that you can see and experience are:</h1>
 
+<div>
+<h3><a color="black" href="https://vlad-burthev.github.io/isaTrade/">IsaTrade</a></h3>
+<img src="https://img.shields.io/badge/react-333?style=for-the-badge&logo=react&logoColor=#61DAFB" />
+<img src="https://img.shields.io/badge/sass-333?style=for-the-badge&logo=sass&logoColor=#F43059" />
+  <img src="https://img.shields.io/badge/javascript-333?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
+    <img src="https://img.shields.io/badge/git-333?style=for-the-badge&logo=git&logoColor=#F05032" />
+      <img src="https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=#F05032" />
+  <img src="https://img.shields.io/badge/webpack-333?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" />
+  <img src="https://img.shields.io/badge/router-333?style=for-the-badge&logo=reactrouter&logoColor=#CA4245" />
+  <h4>In this project, I developed a React-based website with routing functionality. The website includes multiple pages and navigation between them. Additionally, I implemented a form that collects user input and sends it to a Telegram bot for further processing. The frontend of the website is built using React, HTML, and JavaScript, while the styling is done using Sass. <br/>
+  In addition to the above, I also implemented a responsive design for the mobile version of the website. This involved optimizing the layout, font sizes, and button sizes to ensure a seamless and user-friendly experience on mobile devices. The website adjusts dynamically based on the screen size, providing an optimized view for smaller screens. The mobile version retains the same functionality and features as the desktop version, allowing users to navigate the site, fill out forms, and interact with the Telegram bot seamlessly on their mobile devices.
+  </h4>
+</div>
+
+<div>
+<h3><a color="black" href="https://vlad-burthev.github.io/organicFruit/">organicFruit</a></h3>
+<img src="https://img.shields.io/badge/css3-333?style=for-the-badge&logo=css3&logoColor=blue" />
+    <img src="https://img.shields.io/badge/javascript-333?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
+     <img src="https://img.shields.io/badge/git-333?style=for-the-badge&logo=git&logoColor=#F05032" />
+      <img src="https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=#F05032" />
+</div>
+
+<div>
+<h3><a color="black" href="https://vlad-burthev.github.io/organicFruit/">organicFruit</a></h3>
+<img src="https://img.shields.io/badge/css3-333?style=for-the-badge&logo=css3&logoColor=blue" />
+    <img src="https://img.shields.io/badge/javascript-333?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
+     <img src="https://img.shields.io/badge/git-333?style=for-the-badge&logo=git&logoColor=#F05032" />
+      <img src="https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=#F05032" />
+</div>
+
 <h1>My GitHub Profile Trophy</h1>
-<a href="https://vlad-burthev.github.io/isaTrade/">IsaTrade</a>das
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vlad-burthev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
