@@ -18,7 +18,11 @@
 <img src="https://img.shields.io/badge/vite-333?style=for-the-badge&logo=vite&logoColor=#646CFF" />
 <img src="https://img.shields.io/badge/yarn-333?style=for-the-badge&logo=yarn&logoColor=#2C8EBB" />
 
+
+<h1>The projects that you can see and experience are:</h1>
+
 <h1>My GitHub Profile Trophy</h1>
+<a href="https://vlad-burthev.github.io/isaTrade/">IsaTrade</a>das
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vlad-burthev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
