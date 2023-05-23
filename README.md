@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/git-333?style=for-the-badge&logo=git&logoColor=#F05032" />
       <img src="https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=#F05032" />
   <img src="https://img.shields.io/badge/webpack-333?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" />
-  <h4>In this project, I implemented a landing page that features a form capable of sending data to a Telegram bot. The landing page is designed to be responsive and adapt to different mobile devices. To develop this website, I utilized React for building the components and managing the application state. HTML was used to structure the page content, and Sass (Syntactically Awesome Style Sheets) was employed as a CSS preprocessor to enhance styling capabilities
+  <h4>In this project, I implemented a landing page that features a form capable of sending data to a Telegram bot. The landing page is designed to be responsive and adapt to different mobile devices. To develop this website, I utilized React for building the components and managing the application state. HTML was used to structure by the page content, and Sass (Syntactically Awesome Style Sheets) was employed as a CSS preprocessor to enhance styling capabilities
     <br/>
 Overall, this project showcases the combination of React, HTML, and Sass to create a responsive landing page with form submission functionality and a visually appealing design.
   </h4>
@@ -60,7 +60,7 @@ Overall, this project showcases the combination of React, HTML, and Sass to crea
 </div>
 
 <div>
-<h3><a color="black" href="vlad-burthev.github.io/ispeak/">iSpeak</a></h3>
+<h3><a color="black" href="https://vlad-burthev.github.io/ispeak">iSpeak</a></h3>
 <img src="https://img.shields.io/badge/react-333?style=for-the-badge&logo=react&logoColor=#61DAFB" />
 <img src="https://img.shields.io/badge/sass-333?style=for-the-badge&logo=sass&logoColor=#F43059" />
   <img src="https://img.shields.io/badge/javascript-333?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" />
