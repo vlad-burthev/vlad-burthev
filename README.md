@@ -11,7 +11,7 @@
 ###### Clickable ⬇️
 
 <a href="https://t.me/h_rtful"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="html5 logo"  /></a>
-<a href="https://www.linkedin.com/in/vlad-burtsev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="html5 logo"  /></a>
+<a href="https://www.linkedin.com/in/vlad-burtsev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="html5 logo"  /></a>
 <a href="mailto:burthev04@gmail.com"><img src="https://img.shields.io/badge/burthev04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="html5 logo"  /></a>
 
 <img src="https://www.codewars.com/users/vlad-burthev/badges/large" height="25" alt="codewars logo"  />
