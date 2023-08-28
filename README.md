@@ -1,27 +1,85 @@
-### Hi there 👋
-### 🔭 I’m ready for work</h2>
+# Hi there 👋 I`m Vlad - Frontend developer
 
+<div align="center">
+  <h1>
+  ⭐I believe that a person lives as long as they are developing.⭐
+</h1>
+</div>
 
-<h1>My tech stack</h1>
+# Contacts 📱
 
-<img src="https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=#F05032" /> <img src="https://img.shields.io/badge/css3-333?style=for-the-badge&logo=css3&logoColor=blue" />
-<img src="https://img.shields.io/badge/sass-333?style=for-the-badge&logo=sass&logoColor=#F43059" />
-<img src="https://img.shields.io/badge/bootstrap-333?style=for-the-badge&logo=bootstrap&logoColor=#F43059" />
-<img src="https://img.shields.io/badge/javascript-333?style=for-the-badge&logo=javascript&logoColor=#F43059" />
-<img src="https://img.shields.io/badge/git-333?style=for-the-badge&logo=git&logoColor=#F43059" />
-<img src="https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=#F43059" />
-<img src="https://img.shields.io/badge/react-333?style=for-the-badge&logo=react&logoColor=#61DAFB" />
-<img src="https://img.shields.io/badge/redux-333?style=for-the-badge&logo=redux&logoColor=purple" />
-<img src="https://img.shields.io/badge/router-333?style=for-the-badge&logo=reactrouter&logoColor=#CA4245" />
-<img src="https://img.shields.io/badge/figma-333?style=for-the-badge&logo=figma&logoColor=#F24E1E" />
-<img src="https://img.shields.io/badge/photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=#31A8FF" />
-<img src="https://img.shields.io/badge/vs code-333?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
-<img src="https://img.shields.io/badge/csharp-333?style=for-the-badge&logo=csharp&logoColor=green" />
-<img src="https://img.shields.io/badge/npm-333?style=for-the-badge&logo=npm&logoColor=#CB3837" />
-<img src="https://img.shields.io/badge/webpack-333?style=for-the-badge&logo=webpack&logoColor=#8DD6F9" />
-<img src="https://img.shields.io/badge/vite-333?style=for-the-badge&logo=vite&logoColor=#646CFF" />
-<img src="https://img.shields.io/badge/yarn-333?style=for-the-badge&logo=yarn&logoColor=#2C8EBB" />
+###### Clickable ⬇️
 
+<a href="https://t.me/h_rtful"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="html5 logo"  /></a>
+<a href="https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4-%D0%B1%D1%83%D1%80%D1%86%D0%B5%D0%B2-733445254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="html5 logo"  /></a>
+<a href="mailto:burthev04@gmail.com"><img src="https://img.shields.io/badge/burthev04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="html5 logo"  /></a>
+
+<img src="https://www.codewars.com/users/vlad-burthev/badges/large" height="25" alt="codewars logo"  />
+
+#### 🔭 I’m ready for work
+
+#### 🌱 I'm currently learning Node.js, Express.js and PostgreSQL
+
+#### 🔭 I’m ready for work
+
+#### 🔭 In 2018, my frontend journey began with HTML, CSS, and JavaScript. Today, armed with frameworks and libraries, I craft dynamic web experiences. From basics to complexities, my path is one of continuous growth.
+
+# My tech stack 👩‍💻
+
+### Approach to Layout 🛠️
+
+- <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="html5 logo"  />
+- <img src="https://img.shields.io/badge/📱 adaptive layout-blue?style=for-the-badge" height="25" alt="adaptive-layout logo"  />
+- <img src="https://img.shields.io/badge/Cross Browser Layout-blue?style=for-the-badge&logo=Google-chrome&logoColor=white" height="25" alt="Cross-Browser logo"  />
+- <img src="https://img.shields.io/badge/</>    -Pixel Perfect Llayout-blue?style=for-the-badge" height="25" alt="Pixel Perfect Llayout logo"  />
+- <img src="https://img.shields.io/badge/bem class naming methodology-E34F26?style=for-the-badge&logo=bem&logoColor=white" height="25" alt="bem logo"  />
+
+### For Styling I Use 🎨
+
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css3 logo"  />
+- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25" alt="sass logo"  />
+- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" alt="Tailwind_CSS logo" />
+- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" alt="bootstrap logo" />
+- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="25" alt="styled-components logo" />
+- <img src="https://img.shields.io/badge/CSS Modules-blue?style=for-the-badge&logo=cssmodules" height="25" alt="cssmodules logo" />
+
+### Frontend Technologies and Tools ⚛️
+
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" />
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" />
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25" />
+
+### Backend Technologies and Tools ⚙️
+
+- <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25" />
+
+### Working with the API
+
+- <img src="https://img.shields.io/badge/axios-E34F26?style=for-the-badge&logo=axios&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/rest api-E34F26?style=for-the-badge&logo=axios&logoColor=white" height="25" />
+
+### Development tools
+
+- <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height="25" />
+- <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" height="25" />
+
+### Version control
+
+- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" />
+
+### Design
+
+- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25" />
+- <img src="https://img.shields.io/badge/%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="25" />
 
 <h1>The projects that you can see and experience are:</h1>
 
@@ -84,13 +142,11 @@ Overall, this project showcases the combination of React, HTML, and Sass to crea
 
 <h1>My GitHub Profile Trophy</h1>
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=vlad-burthev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1>My GitHub Readme Stats</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad-burthev&show_icons=true&theme=tokyonight)
-
 
 <!--
 **vlad-burthev/vlad-burthev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -105,3 +161,21 @@ Overall, this project showcases the combination of React, HTML, and Sass to crea
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
+</div>
