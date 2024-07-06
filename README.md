@@ -20,7 +20,7 @@
 
 #### 🌱 I'm currently learning Node.js, Express.js and PostgreSQL
 
-#### 🔭 In 2018, my frontend journey began with HTML, CSS, and JavaScript. Today, armed with frameworks and libraries, I craft dynamic web experiences. From basics to complexities, my path is one of continuous growth.
+#### 🔭 In 2020, my frontend journey began with HTML, CSS, and JavaScript. Today, armed with frameworks and libraries, I craft dynamic web experiences. From basics to complexities, my path is one of continuous growth.
 
 # My tech stack 👩‍💻
 
